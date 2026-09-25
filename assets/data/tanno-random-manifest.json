@@ -1,0 +1,1026 @@
+{
+  "count": 35,
+  "canvas": [
+    256,
+    256
+  ],
+  "targetLongEdge": 188,
+  "medianOccupancy": 0.82836,
+  "images": [
+    {
+      "source": "03b9b714d123654bd1f7c16d52641392.png",
+      "file": "tanno-01.png",
+      "sourceSize": [
+        2016,
+        2048
+      ],
+      "sourceSubjectBox": [
+        228,
+        272,
+        1792,
+        1740
+      ],
+      "sourceOccupancy": 0.80391,
+      "massCorrection": 1.003,
+      "outputSubjectBox": [
+        34,
+        44,
+        223,
+        221
+      ],
+      "outputSubjectSize": [
+        189,
+        177
+      ],
+      "scale": 0.1205654,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "0b2a63443fb3f2db08ce29ce09259d5b.png",
+      "file": "tanno-02.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        272,
+        356,
+        1756,
+        1644
+      ],
+      "sourceOccupancy": 0.85251,
+      "massCorrection": 0.99713,
+      "outputSubjectBox": [
+        35,
+        51,
+        222,
+        214
+      ],
+      "outputSubjectSize": [
+        187,
+        163
+      ],
+      "scale": 0.1263212,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "0c3107e296b0d06e076b3f391bdeb072.png",
+      "file": "tanno-03.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        372,
+        336,
+        1700,
+        1700
+      ],
+      "sourceOccupancy": 0.73373,
+      "massCorrection": 1.01221,
+      "outputSubjectBox": [
+        36,
+        30,
+        221,
+        220
+      ],
+      "outputSubjectSize": [
+        185,
+        190
+      ],
+      "scale": 0.1395121,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "1d61dca788d8f4772491a24252ff101a.png",
+      "file": "tanno-04.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        412,
+        1672,
+        1616
+      ],
+      "sourceOccupancy": 0.84506,
+      "massCorrection": 0.99801,
+      "outputSubjectBox": [
+        35,
+        46,
+        223,
+        221
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1456717,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "25433bf4ac87ca5f5cf755c4b92a71b9.png",
+      "file": "tanno-05.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        220,
+        400,
+        1668,
+        1752
+      ],
+      "sourceOccupancy": 0.80727,
+      "massCorrection": 1.00258,
+      "outputSubjectBox": [
+        34,
+        45,
+        222,
+        221
+      ],
+      "outputSubjectSize": [
+        188,
+        176
+      ],
+      "scale": 0.1301696,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "26b6ee589b362f691c0e2de5f571dc15.png",
+      "file": "tanno-06.png",
+      "sourceSize": [
+        2272,
+        1984
+      ],
+      "sourceSubjectBox": [
+        142,
+        289,
+        1970,
+        1727
+      ],
+      "sourceOccupancy": 0.71439,
+      "massCorrection": 1.01491,
+      "outputSubjectBox": [
+        22,
+        59,
+        213,
+        209
+      ],
+      "outputSubjectSize": [
+        191,
+        150
+      ],
+      "scale": 0.1043782,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "2e96fa1edcd7624a10c85a7fae36939d.png",
+      "file": "tanno-07.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        412,
+        1676,
+        1616
+      ],
+      "sourceOccupancy": 0.83089,
+      "massCorrection": 0.9997,
+      "outputSubjectBox": [
+        34,
+        47,
+        222,
+        222
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1454665,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "3c1bcb3a032dd15c17a1af330feb68f4.png",
+      "file": "tanno-08.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        320,
+        216,
+        1748,
+        1672
+      ],
+      "sourceOccupancy": 0.76637,
+      "massCorrection": 1.00781,
+      "outputSubjectBox": [
+        35,
+        31,
+        221,
+        220
+      ],
+      "outputSubjectSize": [
+        186,
+        189
+      ],
+      "scale": 0.1301292,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "4302d1d29ed8cd755ed118aba95f3d15.png",
+      "file": "tanno-09.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        412,
+        1676,
+        1616
+      ],
+      "sourceOccupancy": 0.83004,
+      "massCorrection": 0.9998,
+      "outputSubjectBox": [
+        34,
+        47,
+        222,
+        222
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1454814,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "47d07be39b0021a3dd03104581701e49.png",
+      "file": "tanno-10.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        344,
+        356,
+        1728,
+        1640
+      ],
+      "sourceOccupancy": 0.82099,
+      "massCorrection": 1.00089,
+      "outputSubjectBox": [
+        34,
+        46,
+        222,
+        221
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1359597,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "4e96c46b7a5d7ce2cd2fe342358274d6.png",
+      "file": "tanno-11.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        412,
+        1676,
+        1616
+      ],
+      "sourceOccupancy": 0.83627,
+      "massCorrection": 0.99905,
+      "outputSubjectBox": [
+        34,
+        48,
+        222,
+        223
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1453726,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "5d2cbdfb7e88cac1bb3ac8f68847906f.png",
+      "file": "tanno-12.png",
+      "sourceSize": [
+        1952,
+        2048
+      ],
+      "sourceSubjectBox": [
+        188,
+        392,
+        1652,
+        1756
+      ],
+      "sourceOccupancy": 0.81015,
+      "massCorrection": 1.00223,
+      "outputSubjectBox": [
+        34,
+        45,
+        222,
+        221
+      ],
+      "outputSubjectSize": [
+        188,
+        176
+      ],
+      "scale": 0.1287012,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "6a80e4012c96f8270cdfac162a48ff39.png",
+      "file": "tanno-13.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        368,
+        404,
+        1692,
+        1644
+      ],
+      "sourceOccupancy": 0.85021,
+      "massCorrection": 0.9974,
+      "outputSubjectBox": [
+        33,
+        48,
+        221,
+        224
+      ],
+      "outputSubjectSize": [
+        188,
+        176
+      ],
+      "scale": 0.1416248,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "7233326af6be73d1db600b64d591bf60.png",
+      "file": "tanno-14.png",
+      "sourceSize": [
+        2176,
+        2080
+      ],
+      "sourceSubjectBox": [
+        242,
+        362,
+        1742,
+        1761
+      ],
+      "sourceOccupancy": 0.74534,
+      "massCorrection": 1.01062,
+      "outputSubjectBox": [
+        29,
+        48,
+        219,
+        225
+      ],
+      "outputSubjectSize": [
+        190,
+        177
+      ],
+      "scale": 0.1266641,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "81d3bec44558891a0e43749400d3a54f.png",
+      "file": "tanno-15.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        344,
+        332,
+        1716,
+        1640
+      ],
+      "sourceOccupancy": 0.84333,
+      "massCorrection": 0.99821,
+      "outputSubjectBox": [
+        35,
+        43,
+        223,
+        222
+      ],
+      "outputSubjectSize": [
+        188,
+        179
+      ],
+      "scale": 0.1367811,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "83ae13a6d575f01130a07ed686ad0a4f.png",
+      "file": "tanno-16.png",
+      "sourceSize": [
+        2144,
+        2112
+      ],
+      "sourceSubjectBox": [
+        218,
+        352,
+        1855,
+        1865
+      ],
+      "sourceOccupancy": 0.71134,
+      "massCorrection": 1.01535,
+      "outputSubjectBox": [
+        37,
+        46,
+        228,
+        222
+      ],
+      "outputSubjectSize": [
+        191,
+        176
+      ],
+      "scale": 0.1166067,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "89af45ab9f8557e35a133a6d18172f63.png",
+      "file": "tanno-17.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        416,
+        1672,
+        1624
+      ],
+      "sourceOccupancy": 0.83614,
+      "massCorrection": 0.99907,
+      "outputSubjectBox": [
+        35,
+        47,
+        223,
+        223
+      ],
+      "outputSubjectSize": [
+        188,
+        176
+      ],
+      "scale": 0.1458263,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "8c265168828e335b9bc2d8bef5cd6538.png",
+      "file": "tanno-18.png",
+      "sourceSize": [
+        2176,
+        2112
+      ],
+      "sourceSubjectBox": [
+        276,
+        404,
+        1895,
+        1904
+      ],
+      "sourceOccupancy": 0.80748,
+      "massCorrection": 1.00256,
+      "outputSubjectBox": [
+        34,
+        45,
+        222,
+        220
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.116418,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "8f585061d97535b240e79254abd136f2.png",
+      "file": "tanno-19.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSubjectBox": [
+        218,
+        225,
+        1051,
+        1007
+      ],
+      "sourceOccupancy": 0.83282,
+      "massCorrection": 0.99946,
+      "outputSubjectBox": [
+        34,
+        46,
+        222,
+        222
+      ],
+      "outputSubjectSize": [
+        188,
+        176
+      ],
+      "scale": 0.2255692,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "9726cf28bb546ab30a9a5865387664ff.png",
+      "file": "tanno-20.png",
+      "sourceSize": [
+        1856,
+        2048
+      ],
+      "sourceSubjectBox": [
+        212,
+        352,
+        1644,
+        1680
+      ],
+      "sourceOccupancy": 0.80842,
+      "massCorrection": 1.00244,
+      "outputSubjectBox": [
+        34,
+        45,
+        222,
+        220
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1316053,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "ac6cd2dd7596924b5bd550c246c7f761.png",
+      "file": "tanno-21.png",
+      "sourceSize": [
+        1888,
+        2048
+      ],
+      "sourceSubjectBox": [
+        236,
+        124,
+        1636,
+        1672
+      ],
+      "sourceOccupancy": 0.72915,
+      "massCorrection": 1.01284,
+      "outputSubjectBox": [
+        42,
+        30,
+        214,
+        220
+      ],
+      "outputSubjectSize": [
+        172,
+        190
+      ],
+      "scale": 0.1230063,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "ad629da3163520615c4bcdd640cc4efd.png",
+      "file": "tanno-22.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        412,
+        1688,
+        1656
+      ],
+      "sourceOccupancy": 0.83263,
+      "massCorrection": 0.99949,
+      "outputSubjectBox": [
+        34,
+        45,
+        222,
+        224
+      ],
+      "outputSubjectSize": [
+        188,
+        179
+      ],
+      "scale": 0.1440977,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "b01e7cc2685b775d9c2bb0ca00a35e91.png",
+      "file": "tanno-23.png",
+      "sourceSize": [
+        2208,
+        1984
+      ],
+      "sourceSubjectBox": [
+        280,
+        254,
+        1863,
+        1725
+      ],
+      "sourceOccupancy": 0.80233,
+      "massCorrection": 1.0032,
+      "outputSubjectBox": [
+        34,
+        45,
+        223,
+        220
+      ],
+      "outputSubjectSize": [
+        189,
+        175
+      ],
+      "scale": 0.1191417,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "b59ba9a124dac96cba5a09fed1a7b4e0.png",
+      "file": "tanno-24.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        360,
+        412,
+        1688,
+        1652
+      ],
+      "sourceOccupancy": 0.83694,
+      "massCorrection": 0.99897,
+      "outputSubjectBox": [
+        34,
+        47,
+        222,
+        222
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1414205,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "b85d5e3496c879ec47e3f6c22a03a621.png",
+      "file": "tanno-25.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        412,
+        1672,
+        1616
+      ],
+      "sourceOccupancy": 0.82982,
+      "massCorrection": 0.99982,
+      "outputSubjectBox": [
+        34,
+        47,
+        222,
+        223
+      ],
+      "outputSubjectSize": [
+        188,
+        176
+      ],
+      "scale": 0.1459371,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "bde4a636c07fef772a64588102f5ca03.png",
+      "file": "tanno-26.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        176,
+        348,
+        1684,
+        1764
+      ],
+      "sourceOccupancy": 0.80407,
+      "massCorrection": 1.00298,
+      "outputSubjectBox": [
+        34,
+        45,
+        223,
+        222
+      ],
+      "outputSubjectSize": [
+        189,
+        177
+      ],
+      "scale": 0.12504,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "c87769ba0d0b03639e01a71c0e2eef6d.png",
+      "file": "tanno-27.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSubjectBox": [
+        191,
+        220,
+        1075,
+        1031
+      ],
+      "sourceOccupancy": 0.84888,
+      "massCorrection": 0.99756,
+      "outputSubjectBox": [
+        34,
+        47,
+        222,
+        219
+      ],
+      "outputSubjectSize": [
+        188,
+        172
+      ],
+      "scale": 0.2121499,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "cde79db922461c422429dbe3943def7b.png",
+      "file": "tanno-28.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        412,
+        1672,
+        1616
+      ],
+      "sourceOccupancy": 0.82989,
+      "massCorrection": 0.99982,
+      "outputSubjectBox": [
+        34,
+        47,
+        222,
+        223
+      ],
+      "outputSubjectSize": [
+        188,
+        176
+      ],
+      "scale": 0.1459358,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "d331e158f9cbe2cc2e2598dca6ad0ee5.png",
+      "file": "tanno-29.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        360,
+        376,
+        1712,
+        1628
+      ],
+      "sourceOccupancy": 0.82741,
+      "massCorrection": 1.00012,
+      "outputSubjectBox": [
+        34,
+        47,
+        222,
+        221
+      ],
+      "outputSubjectSize": [
+        188,
+        174
+      ],
+      "scale": 0.1390693,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "d3dd2492a6877287bd60ab1f6af5122b.png",
+      "file": "tanno-30.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        316,
+        348,
+        1736,
+        1660
+      ],
+      "sourceOccupancy": 0.82913,
+      "massCorrection": 0.99991,
+      "outputSubjectBox": [
+        34,
+        46,
+        222,
+        220
+      ],
+      "outputSubjectSize": [
+        188,
+        174
+      ],
+      "scale": 0.1323821,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "d7965ccbbc80625e1807930c32520de5.png",
+      "file": "tanno-31.png",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "sourceSubjectBox": [
+        240,
+        265,
+        1056,
+        1029
+      ],
+      "sourceOccupancy": 0.84078,
+      "massCorrection": 0.99851,
+      "outputSubjectBox": [
+        34,
+        44,
+        222,
+        220
+      ],
+      "outputSubjectSize": [
+        188,
+        176
+      ],
+      "scale": 0.2300496,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "d800ed9bef2c6555e0b1dc2afa7e36f3.png",
+      "file": "tanno-32.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        412,
+        1676,
+        1616
+      ],
+      "sourceOccupancy": 0.82836,
+      "massCorrection": 1.0,
+      "outputSubjectBox": [
+        34,
+        47,
+        222,
+        222
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1455108,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "db80d7c3ac4e1f31b765c21fffb75442.png",
+      "file": "tanno-33.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        168,
+        1672,
+        1616
+      ],
+      "sourceOccupancy": 0.73928,
+      "massCorrection": 1.01144,
+      "outputSubjectBox": [
+        44,
+        28,
+        213,
+        218
+      ],
+      "outputSubjectSize": [
+        169,
+        190
+      ],
+      "scale": 0.13132,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "e3049e8b451ed310404e0d1808c847f6.png",
+      "file": "tanno-34.png",
+      "sourceSize": [
+        2176,
+        2112
+      ],
+      "sourceSubjectBox": [
+        285,
+        251,
+        2129,
+        2014
+      ],
+      "sourceOccupancy": 0.57005,
+      "massCorrection": 1.03808,
+      "outputSubjectBox": [
+        45,
+        49,
+        240,
+        236
+      ],
+      "outputSubjectSize": [
+        195,
+        187
+      ],
+      "scale": 0.1058346,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    },
+    {
+      "source": "ea2a59edbd104192f8ef5d4f7113f3a5.png",
+      "file": "tanno-35.png",
+      "sourceSize": [
+        2048,
+        2048
+      ],
+      "sourceSubjectBox": [
+        384,
+        416,
+        1672,
+        1616
+      ],
+      "sourceOccupancy": 0.83056,
+      "massCorrection": 0.99974,
+      "outputSubjectBox": [
+        34,
+        48,
+        222,
+        223
+      ],
+      "outputSubjectSize": [
+        188,
+        175
+      ],
+      "scale": 0.1459241,
+      "offsetX": 0.0,
+      "offsetY": 1.0
+    }
+  ]
+}

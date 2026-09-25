@@ -1,0 +1,8 @@
+[
+  { "id": 1, "reason": "first life" },
+  { "id": 777, "reason": "the one people ask for" },
+  { "id": 7777, "reason": "repeating number" },
+  { "id": 123321, "reason": "palindrome" },
+  { "id": 999999999, "reason": "last repeating number" },
+  { "id": 1000000000, "reason": "last life" }
+]

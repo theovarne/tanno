@@ -1,0 +1,12 @@
+{
+  "PROJECT_NAME": "TANNO",
+  "TOKEN_SYMBOL": "TBA",
+  "TOKEN_MINT": "",
+  "NETWORK": "mainnet-beta",
+  "RPC_ENDPOINT": "https://api.mainnet-beta.solana.com",
+  "INDEXER_ENDPOINT": "",
+  "X_URL": "https://x.com/tanno_token",
+  "SOLSCAN_URL": "https://solscan.io",
+  "GENESIS_SUPPLY": "1000000000"
+}
+

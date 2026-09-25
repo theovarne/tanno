@@ -1,0 +1,33 @@
+/* Two image-only substitutions; all archive typography and layout stay intact. */
+.hero-image-shell {
+  aspect-ratio: 2048 / 1984;
+  display: grid;
+  place-items: center;
+}
+
+.hero-image-shell img[src$="/sevra/amber-ghost.png"] {
+  width: 75%;
+  height: auto;
+  image-rendering: pixelated;
+  filter: none;
+}
+
+.portrait-gallery {
+  position: absolute;
+  inset: 0;
+  background: var(--bg-primary);
+}
+
+.portrait-gallery[hidden] { display: none; }
+
+.portrait-gallery > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  image-rendering: pixelated;
+  user-select: none;
+}
+
+
